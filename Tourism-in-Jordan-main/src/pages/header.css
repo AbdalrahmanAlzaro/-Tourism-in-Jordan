@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(112, 107, 219, 0.374);
+    height: 2rem;
+    margin-bottom: 3rem;
+    padding: 2.5rem;
+}
+
+
+ul{
+    display: flex;
+}
+
+ul li{
+    margin:0 0.5rem;
+    list-style-type: none;
+}
